@@ -69,20 +69,21 @@ Además se crearon dos variables nuevas:
 
 ## Estructura del proyecto
 
+​```
 titanic-analisis/
 ├── data/
-│ └── train.csv
+│   └── train.csv
 ├── src/
-│ ├── analysis.py
-│ └── analysis.ipynb
+│   ├── analysis.py
+│   └── analysis.ipynb
 ├── outputs/
-│ ├── supervivencia_sexo.png
-│ ├── supervivencia_clase.png
-│ └── distribucion_edades.png
+│   ├── supervivencia_sexo.png
+│   ├── supervivencia_clase.png
+│   └── distribucion_edades.png
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+​```
 
 ## Autor
 
